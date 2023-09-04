@@ -99,7 +99,7 @@ header {
 button {
   background-color: var(--Toggle);
   height: 20px;
-  width: 45px;
+  width: 49px;
   border-radius: 50px;
   border: none;
   cursor: pointer;
@@ -130,7 +130,7 @@ button:hover{
   border-radius: 50px;
   width: 18px;
   margin-left: 50%;
-  margin-top: -38%;
+  margin-top: -32%;
   transition: 2s all ease;
 }
 .button .iconToggle.dark h5{
