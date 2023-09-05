@@ -130,11 +130,12 @@ button:hover{
   border-radius: 50px;
   width: 18px;
   margin-left: 50%;
-  margin-top: -32%;
+  margin-top: -27%;
   transition: 2s all ease;
 }
 .button .iconToggle.dark h5{
   margin-left: 5%;
+  transition: 2s all ease;
 }
 .section1 {
   display: flex;
